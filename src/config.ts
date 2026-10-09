@@ -1,5 +1,5 @@
 export const SITE = {
-  name: "iSamuelDev",
+  name: "BalingaX",
   tagline: "A fast, minimal tech blog built with Astro.",
   url: "https://balingax.vercel.app",
   description: "",
