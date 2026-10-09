@@ -1,6 +1,6 @@
 export const SITE = {
   name: "BalingaX",
-  tagline: "A fast, minimal tech blog built with Astro.",
+  tagline: "",
   url: "https://balingax.vercel.app",
   description: "",
   author: "IBRAHIM TAOFIK AYODELE (BALINGA)",
